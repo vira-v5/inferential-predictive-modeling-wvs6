@@ -2,12 +2,6 @@
 ### Created:  01/03/2020
 ### Modified: 03/04/2020
 
-### Group members:   
-#                       ANR           SNR                          
-# Josie Harrison        261597        2048023
-# Mantas Matusevicius   789858        2048263
-# Sue Yoon              215976        2038943
-# Vira Hayuningrum      763173        2045985
 
 ### Preliminaries
 
